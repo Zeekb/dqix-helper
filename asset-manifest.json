@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dragon-quest-ix-dungeon-helper/static/css/main.7594494c.css",
+    "main.js": "/dragon-quest-ix-dungeon-helper/static/js/main.a80593a4.js",
+    "index.html": "/dragon-quest-ix-dungeon-helper/index.html",
+    "main.7594494c.css.map": "/dragon-quest-ix-dungeon-helper/static/css/main.7594494c.css.map",
+    "main.a80593a4.js.map": "/dragon-quest-ix-dungeon-helper/static/js/main.a80593a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7594494c.css",
+    "static/js/main.a80593a4.js"
+  ]
+}
